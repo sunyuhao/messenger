@@ -1,0 +1,7 @@
+{
+  "server_port":"4000",
+  "pageVerifyToken": "mini",
+  "pageAccessToken" : "EAAIojWe9q4YBAIEdVwmkmbfk2ZBffIBcNtZCvi2TT8wWXiP6QvB4ZAgoLFRZAb6E5qlEieEoXtlmucvaRB4AfiK40LA2nTFyYW7TCUmR7aCW82viY2nMPvpMnqVmlliPaK5rgDiqZAUUo7LHhZBZAfStPVZChzk3IB8Rh27GZCLjZAoAZDZD",
+  "remoteToken":"",
+  "post_url":"http://remoteform.mini.fr.wunderman-mini-01-pp.wunderman.lbn.fr/remoteform"
+}

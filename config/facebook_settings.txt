@@ -1,0 +1,123 @@
+
+/*---------------------------------------START MENU--------------------------------------------*/
+/*
+Content-Type: application/json
+method:POST
+*/
+
+/*Body raw*/
+{
+  "setting_type":"call_to_actions",
+  "thread_state":"new_thread",
+  "call_to_actions":  [
+    {
+      "payload":"WELCOME"
+    }
+  ]
+}
+
+/*
+target:
+https://graph.facebook.com/v2.6/PAGE_ID/thread_settings?access_token=PAGE_ACCESS_TOKEN
+*/
+
+ /*curl -X POST -H "Content-Type: application/json" -d '{
+  "setting_type":"call_to_actions",
+  "thread_state":"new_thread",
+  "call_to_actions":[
+    {
+      "payload":"WELCOME"
+    }
+  ]
+}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=PAGE_ACCESS_TOKEN"*/
+
+
+
+
+
+
+/*---------------------------------------greetings message--------------------------------------------*/
+
+Use postman:
+
+/*
+Content-Type: application/json
+method:POST
+*/
+/*Body raw*/
+{
+  "setting_type":"greeting",
+  "greeting":{
+    "text":"Bienvenue sur l’assistant MINI. Nous vous aidons à trouver des informations sur votre prochain véhicule MINI."
+  }
+}
+https://graph.facebook.com/v2.6/me/thread_settings?access_token=PAGE_ACCESS_TOKEN
+
+
+USE CURL:
+
+curl -X POST -H "Content-Type: application/json" -d '{
+  "setting_type":"greeting",
+  "greeting":{
+    "text":" Bienvenue sur l’assistant MINI. Nous vous aidons à trouver des informations sur votre prochain véhicule MINI."
+  }
+}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=PAGE_ACCESS_TOKEN"
+
+
+
+
+
+
+/*---------------------------------------Persistent Menu-----------------------------------------------*/
+
+https://graph.facebook.com/v2.6/me/thread_settings?access_token=PAGE_ACCESS_TOKEN
+/*
+Content-Type: application/json
+method:POST
+*/
+/*Body raw*/
+{
+  "setting_type" : "call_to_actions",
+  "thread_state" : "existing_thread",
+  "call_to_actions":[
+    {
+      "type":"postback",
+      "title":"Besoin d'aide?",
+      "payload":"START"
+    },
+    {
+      "type":"postback",
+      "title":"Démarrer une nouvelle demande",
+      "payload":"WELCOME"
+    },
+    {
+      "type":"web_url",
+      "title":"Voir le site",
+      "url":"http://www.mini.fr/"
+    }
+  ]
+}
+
+
+// CURL REQUEST
+curl -X POST -H "Content-Type: application/json" -d '{
+  "setting_type" : "call_to_actions",
+  "thread_state" : "existing_thread",
+  "call_to_actions":[
+      {
+        "type":"postback",
+        "title":"Besoin d'aide?",
+        "payload":"START"
+      },
+      {
+        "type":"postback",
+        "title":"Démarrer une nouvelle demande",
+        "payload":"WELCOME"
+      },
+      {
+        "type":"web_url",
+        "title":"Voir le site",
+        "url":"http://www.mini.fr/"
+      }
+  ]
+}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=PAGE_ACCESS_TOKEN"

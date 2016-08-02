@@ -1,0 +1,33 @@
+[
+  {
+    "idLanding": "CABRIO",
+    "description":"MINI CABRIO",
+    "page_url":"https://www.mini.fr/fr_FR/home/range/mini-3-door-hatch/mini-one-3-door-hatch.html",
+    "image_url":"https://cosystatic.bmwgroup.com/miniweb/cosySec?COSY-EU-100-7331T3deUZ7dXABN745UXgtUDpdvxKMfjek2VWhcMliwtP05r2YIqS9JkjnWL1qrRDyeNG8iEqIb%257IHS9DS0Iw%25P6vdhSM5gpnNmSQRvQF3a%25eqKoVnb4gbVj7ZHiv5DyeDNtrH%254fX4Y6vucPr9O30fwKH7sYH53NzCpL9Qt3aJzMxQUdqfoLkWptvM%25cO0%25loy8Z8XDAusxpzsmlDQea80JKVZguA89Rat19m9OGGnE4GA0ogRUINF9OALUxNRkIogOybWUynvLUgChSY15GybUEqcNX89ChbNmK3OPoEqhk7Bx4MLNmqt1RSGy167aftxd9CDw1RSfWQteB%25VxdSeZfdmuzWQdjcSUt3aeZQ6KdfqXRjcZwBQGHrx6Kc%252Z984WwBKupUPeFe%252B3inJVIjup2XH5XLv6O7MKi7eXGZIDuscCtFbiwNJ0%25lTCw5qTMo%25AHWp9mlDCRwzky2o3erv89ChbbsqV3aJ7aIgmYLXYuTNF1YLYrt3mkIVYZ7dWMuFHS9tmvhB3YG",
+    "idCarline":"F57"
+  },{
+    "idLanding": "ClubMan",
+    "description":"MINI ClubMan",
+    "page_url":"https://www.mini.fr/fr_FR/home/range/mini-3-door-hatch/mini-one-3-door-hatch.html",
+    "image_url":"https://www.mini.fr/fr_FR/home/range/mini-clubman/_jcr_content/main/contentwrapperforcpi/cpiwrapper/par/hmclight/image/damImage.wide.j_1455269322021.jpg",
+    "idCarline":"LP1"
+  },{
+    "idLanding": "CountryMan",
+    "description":"MINI Country-Man",
+    "page_url":"https://www.mini.fr/fr_FR/home/range/mini-3-door-hatch/mini-one-3-door-hatch.html",
+    "image_url":"https://cosystatic.bmwgroup.com/miniweb/cosySec?COSY-EU-100-7331T3deUZ7dOMw1pIYJ3MuO30zbSy7sYEBQanCpLjSk%25ykKj1Vo76nJkLGptvdPKhS65eOgmd4Ws86OG7c1QUDCvxxbZG7NgXA2mzmOLJb8qlZylB0PzkMA8MoutnhJPus94ImZ7dZiw1psLB9xeD05GaFbEdfbYWjrCrmIShtGoJx2YIv3hwHjnWu1Q53vJ2wPkoKGRXMw1p0yDS0mx%25P6CaKM4NjJSVIQBzcxNr9lZy3z2dqfuscC4bVgvrt3RmWwoubnYgMIppzcPr1Y%25P6Pa2vsfN8zVMRJXzSkPazDxTDKdnMRaYWlFwQ5DxRteIIGZ8YWxfjfIgcPteWS6SviKMfjedw9HBBDS6jQ%25ohx2Ydw6ZuLwWptQ%25wc3yXSifZu%25KXCnHHSc3uBrEV1JdKX324bAzTQBrXpFhzDlZ24riIqaSscpF4HvmJx0KiIFJG79MABHvIT91tpO2JGvloVSjgpT9GsLzdtUilo90yW6ZbHsLoACeOvhJ0yLOEjgKqTACygN6U7mlOECUkwEo7sgNEbn%25NM10UkNh5u2yVAbnkq83rHzOh5nmPXHtagq857MrdTRUmP81D4QAxb7MPVYF%255Wh1DMztIrUeqVYDafv49jmztYRSGFz67aftxdYXcw1RSfWQt4B%25VxdSeZfj2uzWQdjcS6k3aeZQ6Kdw1XRjcZwBQcVrx6Kc%252ZpF4WwBKupcmQFe%252B3iKZVIjup2XHByKv63iprJ2xBGwXHi4TpWZ9%25rJHFlEI2ou4TJIsNR6L3FlTv0kfwyXIslGAngNCrv0s9O5RoE4GA0og8xXNF9OALUPW8kIogOybMfPnvLUgChD2C5GybUEqCx889ChbNmEIiPoEqhk7NrMMLW9pRBnVU3",
+    "idCarline":"R60"
+  },{
+    "idLanding": "Marylebone",
+    "description":"MINI Marylebone",
+    "page_url":"https://www.mini.fr/fr_FR/home/range/mini-3-door-hatch/mini-one-3-door-hatch.html",
+    "image_url":"http://images.caradisiac.com/images/5/3/2/5/105325/S1-MINI-lance-une-serie-limitee-Edition-Marylebone-juste-pour-la-France-365749.jpg",
+    "idCarline":"LP2"
+  },{
+    "idLanding": "Shoreditech",
+    "description":"MINI Shoreditech",
+    "page_url":"https://www.mini.fr/fr_FR/home/range/mini-3-door-hatch/mini-one-3-door-hatch.html",
+    "image_url":"http://www.essaiminishoreditch.mini.fr/bundles/becloodminiprm/images/shoreditch/mini-shoreditch-xs.jpg",
+    "idCarline":""
+  }
+]

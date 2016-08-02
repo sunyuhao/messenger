@@ -1,0 +1,5 @@
+mongoimport --db bot_mini --collection dealers --file dealerlist.json --jsonArray
+
+mongoimport --db bot_mini --collection cars --file landings.json --jsonArray
+
+mongoexport --db bot_mini --collection users --out users.json

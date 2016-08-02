@@ -1,0 +1,264 @@
+[
+    {"groupe" :"01 - Ain","options":[
+      {"value":111,"name":"VIRIAT"}
+    ]},
+    {"groupe" :"03 - Allier","options":[
+      {"value":112,"name":"BELLERIVE SUR ALLIER"}
+    ]},
+    {"groupe" :"06 - Alpes Maritimes","options":[
+      {"value":113,"name":"MOUGINS"},
+      {"value":114,"name":"SAINT LAURENT DU VAR"}
+    ]},
+    {"groupe" :"10 - Aube","options":[
+      {"value":1,"name":"CRENEY-PRES-TROYES"}
+    ]},
+    {"groupe" :"11 - Aude","options":[
+      {"value":2,"name":"CARCASSONNE"}
+    ]},
+    {"groupe" :"12 - Aveyron","options":[
+      {"value":3,"name":"ONET-LE-CHÂTEAU"}
+    ]},
+    {"groupe" :"13 - Bouches-du-Rhône","options":[
+      {"value":4,"name":"AIX-EN-PROVENCE"},
+      {"value":6,"name":"MARSEILLE 06 EME"},
+      {"value":5,"name":"MARSEILLE 09 EME"}
+    ]},
+    {"groupe" :"14 - Calvados","options":[
+      {"value":7,"name":"MONDEVILLE"}
+    ]},
+    {"groupe" :"16 - Charente","options":[
+      {"value":8,"name":"GOND PONTOUVRE"}
+    ]},
+    {"groupe" :"17 - Charente-Maritime","options":[
+      {"value":9,"name":"PUILBOREAU"},
+      {"value":10,"name":"SAINT GEORGES DE DIDONNE"}
+    ]},
+    {"groupe" :"18 - Cher","options":[
+      {"value":11,"name":"SAINT-DOULCHARD"}
+    ]},
+    {"groupe" :"19 - Corrèze","options":[
+      {"value":12,"name":"BRIVE LA GAILLARDE"}
+    ]},
+    {"groupe" :"20 - Corse ","options":[
+      {"value":13,"name":"AJACCIO"},
+      {"value":14,"name":"BASTIA"}
+    ]},
+    {"groupe" :"21 - Côte-d'Or","options":[
+      {"value":15,"name":"CHENOVE"}
+    ]},
+    {"groupe" :"22 - Côtes-d'Armor","options":[
+      {"value":16,"name":"LANGUEUX"}
+    ]},
+    {"groupe" :"24 - Dordogne","options":[
+      {"value":17,"name":"BOULAZAC"}
+    ]},
+    {"groupe" :"25 - Doubs","options":[
+      {"value":18,"name":"BESANCON"}
+    ]},
+    {"groupe" :"26 - Drôme","options":[
+      {"value":20,"name":"MONTELIMAR"},
+      {"value":19,"name":"VALENCE"}
+    ]},
+    {"groupe" :"27 - Eure","options":[
+      {"value":21,"name":"EVREUX"}
+    ]},
+    {"groupe" :"28 - Eure-et-Loir","options":[
+      {"value":22,"name":"NOGENT-LE-PHAYE"},
+      {"value":23,"name":"VERNOUILLET"}
+    ]},
+    {"groupe" :"29 - Finistère","options":[
+      {"value":25,"name":"BREST"},
+      {"value":26,"name":"QUIMPER"}
+    ]},
+    {"groupe" :"30 - Gard","options":[
+      {"value":27,"name":"NIMES"}
+    ]},
+    {"groupe" :"31 - Haute-Garonne","options":[
+      {"value":29,"name":"LABEGE"},
+      {"value":28,"name":"TOULOUSE"}
+    ]},
+    {"groupe" :"33 - Gironde","options":[
+      {"value":31,"name":"BORDEAUX"},
+      {"value":30,"name":"BORDEAUX/MERIGNAC"}
+    ]},
+    {"groupe" :"34 - Hérault","options":[
+      {"value":32,"name":"BEZIERS"},
+      {"value":33,"name":"LATTES"}
+    ]},
+    {"groupe" :"35 - Ille-et-Vilaine","options":[
+      {"value":34,"name":"RENNES"}
+    ]},
+    {"groupe" :"36 - Indre","options":[
+      {"value":35,"name":"CHATEAUROUX"}
+    ]},
+    {"groupe" :"37 - Indre-et-Loire","options":[
+      {"value":36,"name":"CHAMBRAY LES TOURS"}
+    ]},
+    {"groupe" :"38 - Isère","options":[
+      {"value":37,"name":"BOURGOIN JALLIEU"},
+      {"value":39,"name":"GRENOBLE"},
+      {"value":38,"name":"VIENNE"}
+    ]},
+    {"groupe" :"39 - Jura","options":[
+      {"value":40,"name":"LONS LE SAUNIER"}
+    ]},
+    {"groupe" :"41 - Loir-et-Cher","options":[
+      {"value":41,"name":"SAINT-GERVAIS-LA-FORET"}
+    ]},
+    {"groupe" :"42 - Loire","options":[
+      {"value":42,"name":"SAINT-ETIENNE"}
+    ]},
+    {"groupe" :"44 - Loire-Atlantique","options":[
+      {"value":44,"name":"GUERANDE"},
+      {"value":43,"name":"SAINT HERBLAIN"}
+    ]},
+    {"groupe" :"45 - Loiret","options":[
+      {"value":45,"name":"ORLEANS"}
+    ]},
+    {"groupe" :"47 - Lot-et-Garonne","options":[
+      {"value":46,"name":"BOE"}
+    ]},
+    {"groupe" :"49 - Maine-et-Loire","options":[
+      {"value":48,"name":"BEAUCOUZE"},
+      {"value":47,"name":"CHOLET"}
+    ]},
+    {"groupe" :"50 - Manche","options":[
+      {"value":49,"name":"SAINT LO"}
+    ]},
+    {"groupe" :"51 - Marne","options":[
+      {"value":50,"name":"REIMS"}
+    ]},
+    {"groupe" :"54 - Meurthe-et-Moselle","options":[
+      {"value":51,"name":"LAXOU"}
+    ]},
+    {"groupe" :"56 - Morbihan","options":[
+      {"value":54,"name":"LORIENT"},
+      {"value":53,"name":"VANNES"}
+    ]},
+    {"groupe" :"57 - Moselle","options":[
+      {"value":56,"name":"METZ"},
+      {"value":55,"name":"TERVILLE"}
+    ]},
+    {"groupe" :"59 - Nord","options":[
+      {"value":57,"name":"LILLE/VILLENEUVE D'ASCQ"},
+      {"value":58,"name":"SECLIN"},
+      {"value":59,"name":"VALENCIENNES / PETITE FORET"}
+    ]},
+    {"groupe" :"60 - Oise","options":[
+      {"value":60,"name":"BEAUVAIS"},
+      {"value":61,"name":"SAINT-MAXIMIN"}
+    ]},
+    {"groupe" :"61 - Orne","options":[
+      {"value":62,"name":"VALFRAMBERT"}
+    ]},
+    {"groupe" :"62 - Nord Pas-de-Calais","options":[
+      {"value":64,"name":"BEAURAINS"},
+      {"value":63,"name":"COQUELLES"},
+      {"value":65,"name":"LIEVIN"}
+    ]},
+    {"groupe" :"63 - Puy-de-Dôme","options":[
+      {"value":66,"name":"AUBIERE"}
+    ]},
+    {"groupe" :"64 - Pyrénées-Atlantiques","options":[
+      {"value":67,"name":"BAYONNE"},
+      {"value":68,"name":"LESCAR"}
+    ]},
+    {"groupe" :"65 - Hautes-Pyrénées","options":[
+      {"value":69,"name":"TARBES"}
+    ]},
+    {"groupe" :"66 - Pyrénées-Orientales","options":[
+      {"value":52,"name":"PERPIGNAN"}
+    ]},
+    {"groupe" :"67 - Bas-Rhin","options":[
+      {"value":71,"name":"HAGUENAU"},
+      {"value":70,"name":"HOENHEIM"}
+    ]},
+    {"groupe" :"68 - Haut-Rhin","options":[
+      {"value":72,"name":"COLMAR"},
+      {"value":73,"name":"SAUSHEIM"}
+    ]},
+    {"groupe" :"69 - Circonscription départementale du Rhône","options":[
+      {"value":75,"name":"LYON 03 EME"},
+      {"value":76,"name":"LYON 09 EME"},
+      {"value":74,"name":"VENISSIEUX"}
+    ]},
+    {"groupe" :"71 - Saône-et-Loire","options":[
+      {"value":77,"name":"CHALON SUR SAONE"}
+    ]},
+    {"groupe" :"72 - Sarthe","options":[
+      {"value":78,"name":"LE MANS"}
+    ]},
+    {"groupe" :"73 - Savoie","options":[
+      {"value":79,"name":"CHAMBERY"}
+    ]},
+    {"groupe" :"74 - Haute-Savoie","options":[
+      {"value":80,"name":"SEYNOD"},
+      {"value":81,"name":"VETRAZ MONTHOUX"}
+    ]},
+    {"groupe" :"75 - Paris","options":[
+      {"value":84,"name":"PARIS 06 EME"},
+      {"value":85,"name":"PARIS 12 EME"},
+      {"value":83,"name":"PARIS 16 EME"},
+      {"value":82,"name":"PARIS 17 EME"}
+    ]},
+    {"groupe" :"76 - Seine-Maritime","options":[
+      {"value":86,"name":"LE HAVRE"},
+      {"value":87,"name":"ROUEN"}
+    ]},
+    {"groupe" :"77 - Seine-et-Marne","options":[
+      {"value":88,"name":"MAREUIL LES MEAUX"},
+      {"value":89,"name":"SAINT THIBAULT DES VIGNES"},
+      {"value":90,"name":"SAMOREAU"}
+    ]},
+    {"groupe" :"78 - Yvelines","options":[
+      {"value":91,"name":"BUCHELAY"},
+      {"value":93,"name":"LE CHESNAY"},
+      {"value":92,"name":"RAMBOUILLET"},
+      {"value":94,"name":"VELIZY-VILLACOUBLAY"}
+    ]},
+    {"groupe" :"79 - Deux-Sèvres","options":[
+      {"value":95,"name":"NIORT"}
+    ]},
+    {"groupe" :"80 - Somme","options":[
+      {"value":96,"name":"RIVERY"}
+    ]},
+    {"groupe" :"83 - Var","options":[
+      {"value":97,"name":"FREJUS"},
+      {"value":98,"name":"OLLIOULES"}
+    ]},
+    {"groupe" :"84 - Vaucluse","options":[
+      {"value":99,"name":"AVIGNON"}
+    ]},
+    {"groupe" :"85 - Vendée","options":[
+      {"value":100,"name":"MOUILLERON LE CAPTIF"}
+    ]},
+    {"groupe" :"86 - Vienne","options":[
+      {"value":101,"name":"POITIERS"}
+    ]},
+    {"groupe" :"87 - Haute-Vienne","options":[
+      {"value":102,"name":"LIMOGES"}
+    ]},
+    {"groupe" :"89 - Yonne","options":[
+      {"value":115,"name":"AUXERRE"}
+    ]},
+    {"groupe" :"91 - Essonne","options":[
+      {"value":104,"name":"BALLAINVILLIERS"},
+      {"value":105,"name":"JUVISY SUR ORGE"},
+      {"value":103,"name":"LES ULIS"}
+    ]},
+    {"groupe" :"92 - Hauts-de-Seine","options":[
+      {"value":106,"name":"COURBEVOIE"}
+    ]},
+    {"groupe" :"93 - Seine-Saint-Denis","options":[
+      {"value":107,"name":"NOISY LE SEC"}
+    ]},
+    {"groupe" :"94 - Val-de-Marne","options":[
+      {"value":108,"name":"CHENNEVIERES SUR MARNE"}
+    ]},
+    {"groupe" :"95 - Val-d'Oise","options":[
+      {"value":109,"name":"SAINT-GRATIEN"}
+    ]},
+    {"groupe" :"98 - Monaco","options":[
+      {"value":110,"name":"MONACO"}
+]}
+]
